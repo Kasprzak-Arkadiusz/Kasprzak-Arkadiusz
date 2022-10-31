@@ -3,6 +3,12 @@
 
 >Some facts about me.
 
+- :mortar_board: BSc Computer Science - Warsaw University of Technology (2019-2023)
+- :office: I'm currently working at BNP Paribas GSC
+- :seedling: I'm learning gRPC and React
+- :computer: Dedicated backend developer
+- :purple_heart: Huge fan of open-source
+  
 <h3 align="left">My stack</h3>
 
 >Current technologies that I work with.
