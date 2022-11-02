@@ -6,8 +6,8 @@
 - :mortar_board: BSc Computer Science - Warsaw University of Technology (2019-2023)
 - :office: I'm currently working at BNP Paribas GSC
 - :seedling: I'm learning gRPC and React
-- :computer: Dedicated backend developer
-- :purple_heart: Huge fan of open-source
+- :computer: I'm dedicated backend developer
+- :purple_heart: I love all kinds of open-source
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasprzak-Arkadiusz&hide=HTML&exclude_repo=RailwayTicketsWebsite,Programowanie-aplikacji-mobilnych-i-webowych,BlazorPWA,WPF-Application-calculate-future-child-height-and-weight&layout=compact&langs_count=6&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kasprzak-Arkadiusz&hide=issues&count_private=true&show_icons=true&theme=tokyonight"/>
