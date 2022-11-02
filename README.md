@@ -9,6 +9,9 @@
 - :computer: Dedicated backend developer
 - :purple_heart: Huge fan of open-source
   
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasprzak-Arkadiusz&hide=HTML&exclude_repo=RailwayTicketsWebsite,Programowanie-aplikacji-mobilnych-i-webowych,BlazorPWA,WPF-Application-calculate-future-child-height-and-weight&layout=compact&langs_count=6&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kasprzak-Arkadiusz&hide=issues&count_private=true&show_icons=true&theme=tokyonight"/>
+  
 <h3 align="left">My stack</h3>
 
 >Current technologies and tools that I work with.
