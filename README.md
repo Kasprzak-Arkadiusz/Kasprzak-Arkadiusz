@@ -79,4 +79,18 @@
 
 <h3 align="left">Worth seeing</h3>
 
->People, repositories worth recommending.
+>People worth recommending.
+
+<table><tr>
+<td width="120"><img src="https://avatars.githubusercontent.com/u/56837817" width="100" height="100"/>
+
+**.NET Developer** [Franciszek Wysocki](https://github.com/wysockif)
+
+</td>
+<td width="120"><img src="https://avatars.githubusercontent.com/u/56368449" width="100" height="100"/>
+
+**Frontend Developer** [Adrian Milewski](https://github.com/milewsa3)
+
+</td>
+<tr>
+</table>
