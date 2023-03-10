@@ -89,7 +89,7 @@
 </td>
 <td width="120"><img src="https://avatars.githubusercontent.com/u/56368449" width="100" height="100"/>
 
-**Frontend Developer** [Adrian Milewski](https://github.com/milewsa3)
+**Fullstack Developer** [Adrian Milewski](https://github.com/milewsa3)
 
 </td>
 <tr>
