@@ -5,7 +5,7 @@
 
 - :mortar_board: BSc Computer Science - Warsaw University of Technology (2019-2023)
 - :office: I'm currently working at BNP Paribas GSC
-- :seedling: I'm learning gRPC and React
+- :seedling: I'm learning cyber security topics
 - :computer: I'm dedicated backend developer
 - :purple_heart: I love all kinds of open-source
   
